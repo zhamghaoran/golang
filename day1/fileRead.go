@@ -24,7 +24,6 @@ func main() {
 				FileName: filename,
 			}
 		}
-
 	}
 	for line, n := range counts {
 		if n.num > 1 {
